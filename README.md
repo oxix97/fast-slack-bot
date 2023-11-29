@@ -1,1 +1,0 @@
-# fast-slack-bot
